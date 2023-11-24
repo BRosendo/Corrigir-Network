@@ -1,4 +1,4 @@
 1 - Pegar as SOEs e abrir a CN23 
-2 - Pegar a NT na CN23, clicar na setinha, serial number, G1 Induction, copiar no header
+2 - Pegar a NT na CN23, c: network for project definitions, project definition clica na setinha e serial number. clicar na setinha, serial number, G1 Induction, copiar no header
 3 - Abrir a IW32, pegar a ZINS e ZREP na ZE03, enter, add data, cola a network certa.
 4 - Conferir se o módulo está correto, enter, sim, sim, sim, overwrite WBS (NÃO), salva e sim.
